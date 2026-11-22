@@ -2,12 +2,23 @@
 ## MUSIC PLAYLIST MANAGER
 ### A Data Structures and Algorithms Project Using C Language
 
-**Author / Developer:** Imran ([@Irfaninsync](https://github.com/Irfaninsync))  
+**Project Type:** Group Academic Capstone Project (Team of 6 Members)  
 **Degree:** Bachelor of Technology (B.Tech)  
 **Department:** Computer Science and Engineering  
 **Subject:** Data Structures and Algorithms  
 **Language Standard:** C11  
 **Development Toolchain:** VS Code / GCC Compiler / MinGW-W64  
+
+### Project Team Details
+
+| S.No. | Roll Number | Assigned Module & DSA Responsibility |
+|:---:|:---:|:---|
+| **1** | `2025DCSBT10650` | Dynamic Array (Library Catalog), Binary Search, Linear Search, Multi-attribute Sorting |
+| **2** | `2025DCSBT10651` | Singly Linked List (Listening History), O(1) Head Insertion, Tail Node Deletion |
+| **3** | `2025DCSBT10652` | Doubly & Circular Linked Lists (Bidirectional Playlist Navigation & Continuous Loop Mode) |
+| **4** | `2025DCSBT10653` | LIFO Stack (Reversible Undo Engine) & Circular FIFO Queue (Upcoming Song Playback) |
+| **5** | `2025DCSBT10654` | Binary Max-Heap (VIP Priority Queue) & Hash Table with Separate Chaining (O(1) Search) |
+| **6** | `2025DCSBT10655` | Binary Search Tree (Alphabetical Title Index) & Graph Adjacency List (BFS/DFS Engine) |
 
 ---
 
