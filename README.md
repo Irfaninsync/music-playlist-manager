@@ -1,6 +1,9 @@
 # Music Playlist Manager
-**A Practical Data Structures and Algorithms Capstone Project in C (C11)**  
-*Developed for B.Tech Undergraduate Computer Science and Engineering*
+**A Data Structures and Algorithms (DSA) Academic Project in C (C11)**  
+*Developed by Imran ([@Irfaninsync](https://github.com/Irfaninsync)) for B.Tech Computer Science and Engineering*
+
+> **About This Project:**  
+> I developed this **Music Playlist Manager** as my academic project for the **Data Structures and Algorithms (DSA)** subject in my B.Tech curriculum. The objective of this project is to implement, integrate, and practically demonstrate all major data structures—Dynamic Arrays, Singly Linked Lists, Doubly Linked Lists, Circular Linked Lists, Stacks, Queues, Binary Max-Heap Priority Queues, Hash Tables with Separate Chaining, Binary Search Trees, and Graphs—entirely in pure C without relying on built-in or external DSA libraries. Every structure and algorithm has been built manually from scratch to understand real-world application, pointer mechanics, dynamic memory allocation, and time complexities.
 
 ---
 

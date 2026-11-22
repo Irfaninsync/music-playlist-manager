@@ -2,6 +2,7 @@
 ## MUSIC PLAYLIST MANAGER
 ### A Data Structures and Algorithms Project Using C Language
 
+**Author / Developer:** Imran ([@Irfaninsync](https://github.com/Irfaninsync))  
 **Degree:** Bachelor of Technology (B.Tech)  
 **Department:** Computer Science and Engineering  
 **Subject:** Data Structures and Algorithms  
