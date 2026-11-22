@@ -1,0 +1,7 @@
+# Compiled executables
+*.exe
+*.o
+*.obj
+
+# Temporary outputs
+data/test_output.csv

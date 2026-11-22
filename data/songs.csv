@@ -1,0 +1,13 @@
+id,title,artist,album,genre,duration,file_path,is_favourite,priority
+1001,Bohemian Rhapsody,Queen,A Night at the Opera,Rock,354,music/bohemian_rhapsody.mp3,1,10
+1002,Billie Jean,Michael Jackson,Thriller,Pop,294,music/billie_jean.mp3,1,9
+1003,Hotel California,Eagles,Hotel California,Rock,390,music/hotel_california.mp3,0,8
+1004,Shape of You,Ed Sheeran,Divide,Pop,233,music/shape_of_you.mp3,0,6
+1005,Take Five,Dave Brubeck,Time Out,Jazz,324,music/take_five.mp3,1,7
+1006,Stairway to Heaven,Led Zeppelin,Led Zeppelin IV,Rock,482,music/stairway_to_heaven.mp3,1,10
+1007,Blinding Lights,The Weeknd,After Hours,Synthwave,200,music/blinding_lights.mp3,0,5
+1008,Clair de Lune,Claude Debussy,Suite bergamasque,Classical,305,music/clair_de_lune.mp3,0,4
+1009,Fly Me to the Moon,Frank Sinatra,It Might as Well Be Swing,Jazz,147,music/fly_me_to_the_moon.mp3,1,8
+1010,Imagine,John Lennon,Imagine,Rock,183,music/imagine.mp3,1,9
+1011,Smells Like Teen Spirit,Nirvana,Nevermind,Grunge,301,music/teen_spirit.mp3,0,7
+1012,Rolling in the Deep,Adele,21,Pop,228,music/rolling_in_the_deep.mp3,0,6
