@@ -247,11 +247,11 @@ void graph_bfs(int start_id) {
 void load_songs(const char *fn) {
     FILE *fp = fopen(fn, "r");
     if (!fp) return;
-    char line[128];
+    char line[256];
     fgets(line, sizeof(line), fp);
     while (fgets(line, sizeof(line), fp) && song_count < MAX_SONGS) {
         Song s;
-        if (sscanf(line, "%d,%[^,],%[^,],%[^,],%d,%*[^,],%*d,%d",
+        if (sscanf(line, "%d,%34[^,],%24[^,],%*[^,],%14[^,],%d,%*[^,],%*d,%d",
                    &s.id, s.title, s.artist, s.genre, &s.duration, &s.priority) == 6) {
             library[song_count] = s;
             hash_insert(s.id, song_count);
